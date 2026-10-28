@@ -1,3 +1,4 @@
+- [mcstatue](https://github.com/salw2e/mcstatue) - turns a photo into a Minecraft statue
 - [pluginscan](https://github.com/salw2e/pluginscan) - scans Minecraft plugins for backdoors
 - [isodb](https://github.com/salw2e/isodb) - SQL database in Go
 - [isocheck](https://github.com/salw2e/isocheck) - transaction isolation checker
